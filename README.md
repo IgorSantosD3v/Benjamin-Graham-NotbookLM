@@ -61,27 +61,5 @@ A filosofia apresentada prioriza a proteção do capital e retornos sustentávei
 - Educação financeira baseada em racionalidade econômica
 
 ---
----
-
----
-
-## 📜 Certificado
-
-Este projeto está acompanhado de um **certificado em meu nome**, comprovando o uso prático do **NotebookLM** como ferramenta de apoio ao aprendizado, curadoria de fontes e aplicação de **IA generativa** de forma orientada a objetivos.
-
-O certificado valida competências como:
-- Uso consciente e estratégico de IA generativa
-- Organização e síntese de conhecimento complexo
-- Aprendizado autodirigido com base em fontes confiáveis
-- Documentação e apresentação de projetos técnicos
-
-<p align="center">
-  <img src="certificates/poder-do-notebooklm.png" alt="Certificado Poder do NotebookLM – Autor do Projeto" width="700">
-</p>
-
----
-
-
----
 
 📎 *Este repositório tem como finalidade documentar e apresentar o projeto desenvolvido no NotebookLM para fins educacionais e acadêmicos.*
