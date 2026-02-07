@@ -63,18 +63,24 @@ A filosofia apresentada prioriza a proteção do capital e retornos sustentávei
 ---
 ---
 
+---
+
 ## 📜 Certificado
 
-Este projeto está acompanhado de um **certificado de conclusão em meu nome**, relacionado ao uso prático do **NotebookLM** como ferramenta de apoio ao aprendizado, organização e aplicação de conhecimento com **IA generativa**.
+Este projeto está acompanhado de um **certificado em meu nome**, comprovando o uso prático do **NotebookLM** como ferramenta de apoio ao aprendizado, curadoria de fontes e aplicação de **IA generativa** de forma orientada a objetivos.
 
-O certificado comprova minha capacidade de:
-- Utilizar IA generativa de forma orientada a objetivos
-- Curar e estruturar conhecimento a partir de fontes confiáveis
-- Aplicar ferramentas de IA como extensão cognitiva para resolução de problemas
-- Documentar processos de aprendizado e entrega técnica
+O certificado valida competências como:
+- Uso consciente e estratégico de IA generativa
+- Organização e síntese de conhecimento complexo
+- Aprendizado autodirigido com base em fontes confiáveis
+- Documentação e apresentação de projetos técnicos
 
-📎 **Certificado do autor do projeto:**  
-👉 [Visualizar certificado – Poder do NotebookLM](certificates/poder-do-notebooklm.pdf)
+<p align="center">
+  <img src="certificates/poder-do-notebooklm.png" alt="Certificado Poder do NotebookLM – Autor do Projeto" width="700">
+</p>
+
+---
+
 
 ---
 
